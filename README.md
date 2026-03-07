@@ -2,7 +2,8 @@
 A/B testing for marketing campaigns
 
 ## Overview
-This repository contains a A/B-test analysis of a fast-food marketing campaign dataset from Kaggle: [Fast Food Marketing Campaign A/B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test). 
+This repository contains a A/B-test analysis of a fast-food marketing campaign dataset from Kaggle: [Fast Food Marketing Campaign A/B Test](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test).
+
 **The goal** is to evaluate the effectiveness of three different promotions on sales in thousands of dollars, considering factors like market size and store age.
 
 ## Technology stack
